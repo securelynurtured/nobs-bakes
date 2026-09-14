@@ -6,8 +6,8 @@
 HTML
 
 ## Publicerade versioner
-Länk till Github Pages: https://securelynurtured.github.io/nobs-bakes/
-Länk till Netlify: https://nobs-bakes.netlify.app/
+- Länk till Github Pages: https://securelynurtured.github.io/nobs-bakes/
+- Länk till Netlify: https://nobs-bakes.netlify.app/
 
 ## Git-Frågår
 
